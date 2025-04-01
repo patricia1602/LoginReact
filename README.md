@@ -1,12 +1,29 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TELA DE LOGIN COM REACT JS - PROJETO DE REACT JS PARA INICIANTES PÁGINA DE LOGIN
 
-Currently, two official plugins are available:
+1º Abrir a pasta do projeto no vscode
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2º Abrir o terminal e criar a pasta com esse comand0 -> npx create-vite .
+  * O ponto(.) na programação significa diretório atual.
 
-## Expanding the ESLint configuration
+3º Selecione o framework -> React
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+4º Selecione a variant -> JavaScript
+
+5º Fazer a instalação a seguir -> npm install
+
+6º Iniciar o servidor -> npm run dev
+
+7º Processa de limpeza -> abrir o index.CSS e limpar tudo
+
+8º Abrir o App.jsx e limpar esse importantes e o conteúdo deles -> import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
+
+9º Apagar todo App.CSS
+
+10º rafce => comando que  um componente funcional do react 
+
+11º Instalar pacotes da  biblioteca de ícones -> npm i @react-icons/all-files react-icons
+
